@@ -1,3 +1,18 @@
+## Native Library Protection
+
+This fork of Telegram is to demonstrate how Native Library Protection mechanism works.
+
+## Description
+https://dexprotector.com/docs#native-library-protection
+
+## Requirements
+- Android Studio or Gradle
+- DexProtector Enterpise with a valid license
+
+## Configuring 
+- Set path to Android SDK in local.properties
+- Set path to DexProtector Enterprise in build.gradle (project’s root) instead of `/Users/developer/DexProtector`
+
 ## Telegram messenger for Android
 
 [Telegram](https://telegram.org) is a messaging app with a focus on speed and security. It’s superfast, simple and free.
